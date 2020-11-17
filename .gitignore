@@ -1,0 +1,9 @@
+*.bak
+*.bak.*
+*.ckpt
+*.old
+*.pyc
+.DS_Store
+.ipynb_checkpoints
+type-related/.ipynb_checkpoints
+checkpoint
